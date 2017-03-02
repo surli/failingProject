@@ -32,12 +32,6 @@ public class NopolExampleTest {
 	}
 	
 	@Test
-	public void test5(){
-	  NopolExample ex = new NopolExample();
-	  assertTrue(ex.canBeDividedby3("8142"));
-	}
-	
-	@Test
 	public void test6(){
 	  NopolExample ex = new NopolExample();
 	  assertTrue(ex.canBeDividedby3("-15339"));
