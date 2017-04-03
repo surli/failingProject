@@ -1,5 +1,7 @@
 language: java
 
+script: cd ./other-directory && mvn test
+
 notifications:
   on_failure: never
   on_success: always
