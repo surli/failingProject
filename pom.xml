@@ -4,6 +4,7 @@
   <artifactId>test-projects</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>test-projects</name>
+    <packaging>pom</packaging>
 
   <properties>
     <default.encoding>UTF-8</default.encoding>
@@ -18,4 +19,8 @@
   		<version>4.11</version>
   	</dependency>
   </dependencies>
+
+    <modules>
+        <module>module</module>
+    </modules>
 </project>
