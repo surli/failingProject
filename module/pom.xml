@@ -10,7 +10,7 @@
     <artifactId>module</artifactId>
     <packaging>pom</packaging>
 
-  <name>test-projects</name>
+  <name>module</name>
 
     <modules>
         <module>submodule-A</module>
