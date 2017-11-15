@@ -4,4 +4,4 @@ notifications:
   on_failure: never
   on_success: always
 
-after_script: ./scripts/client.py $post-url
+after_script: ./scripts/client.py $postURL
