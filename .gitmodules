@@ -1,0 +1,3 @@
+[submodule "test-repairnator-bears"]
+	path = test-repairnator-bears
+	url = https://github.com/fermadeiral/test-repairnator-bears
