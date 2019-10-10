@@ -1,5 +1,6 @@
 language: java
 
 notifications:
-  on_failure: never
-  on_success: always
+  email:
+    on_failure: never
+    on_success: always
