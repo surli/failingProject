@@ -4,3 +4,4 @@ This repository contains source of the test project of [Nopol](https://github.co
 
 It is intended to have failing tests, as it is used on an automatic repair project.  Henry
 
+  
