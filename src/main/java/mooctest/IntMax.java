@@ -7,7 +7,13 @@ public class IntMax {
 		if (y > z){
 			//	z = x; // Seeded bug. Should be z = y
 			z =y;
-			i.toString();
+			} else {
+				if (i == null) {
+					 x.toString();
+				} else {
+					i.toString();
+				}
+			}
 		}
 		return z;
 	}
