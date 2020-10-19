@@ -40,13 +40,6 @@ public class NopolExampleTest {
 	}
 	
 	@Test
-	public void test6(){
-		NopolExample ex = new NopolExample();
-		String s = "abcd";
-		assertEquals('a', ex.charAt(s, -1));
-	}
-	
-	@Test
 	public void test7(){
 		NopolExample ex = new NopolExample();
 		assertEquals('c', ex.charAt("abcd", 2));
