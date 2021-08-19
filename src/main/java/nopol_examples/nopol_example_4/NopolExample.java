@@ -11,6 +11,7 @@ public class NopolExample {
 		int initializedVariableShouldBeCollected = 2;
 		int uninitializedVariableShouldNotBeCollected;
 		int otherInitializedVariableShouldBeCollected;
+                int foo = 1;
 		
 		if ( a.length() == 0 ){
 			return false;
