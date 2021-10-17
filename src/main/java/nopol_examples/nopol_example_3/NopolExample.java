@@ -7,6 +7,7 @@ public class NopolExample {
 	 */
 	public boolean isOddNumber(int a){
 		int tmp = (a-1)%2;
+                int foo = 0;
 		
 		if ( tmp != 0 ){ // Fix : tmp == 0
 			return true;
